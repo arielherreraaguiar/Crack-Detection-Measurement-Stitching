@@ -1,0 +1,7 @@
+numpy
+opencv-python
+matplotlib
+scikit-image
+pandas
+stitching
+pyimagej  # optional, only if running Fiji/ImageJ from Python
