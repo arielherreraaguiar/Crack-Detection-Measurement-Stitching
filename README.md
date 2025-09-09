@@ -5,7 +5,6 @@ into a single panorama using **OpenCV** and related libraries. The work includes
 batch processing across folders, automatic best‑image selection and duplicate removal (SSIM), and stitching with the
 **Open Stitching** library.
 
-> Stack: Python, OpenCV, NumPy, Matplotlib, scikit-image, pandas, Open Stitching, (optional) Fiji/ImageJ.
 
 ---
 
